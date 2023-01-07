@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently studying to find a job as a full stack<br>🌱 I am currently learning with oracle next education in alura<br>💬 Ask me about what you need<br>⚡ Fun fact "Software is eating the world"
+🔭 I am currently studying to find a job as a full stack<br>🌱 I am currently learning with oracle next education in alura<br>💬 Ask me about what you need<br>⚡ "Software is eating the world"
 
 
 # 💻 Tech Stack:
